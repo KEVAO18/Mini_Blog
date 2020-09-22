@@ -1,0 +1,37 @@
+{
+	"item1": {
+		"id": 1,
+		"encabesado": "The Yanomami Tribe - Venezuela and Brazil.",
+		"articulo": "The Yanomami are an isolated tribe in South America, they are located in the mountainous sectors to the north of Brazil and the south of Venezuela. These remained somewhat isolated as a result of the brutal colonization of the Portuguese in the Amazon sector. For most people cannibalism is considered a nefarious act, but for some isolated tribes of civilization, this is common. A proof of this is the Yonomami tribe, in which endogmatic cannibalism is part of postmortem rituals, since the corpse is cremated and later ingested by their relatives. This tribe has the belief that in the bones is the energy of the obsessive and when ingesting the ashes, it is reintegrated into its family, it should be clarified that this tradition only applies in the case that the deceased person has been a good person, otherwise, the corpse is completely consumed by fire.",
+		"portada": "Yanomami2.png",
+		"relleno": "yanomami1.jpg"
+	},
+	"item2": {
+		"id": 2,
+		"encabesado": "Throwing babies into the void - Republic of India",
+		"articulo": "In the Republic of India, a totally sovereign nation located in the south of the Asian continent, in some cities and villages, year after year they perform a polemic and even strange ritual called Okali, which consists of dropping babies between three months and two years old into the void, they are caught with a blanket before touching the ground, according to this tradition, this is for their prosperity, to make them stronger and to have good health. This tradition is around 700 years old, this could be said to be a collective belief, which is totally insecure, because any mistake, a minor of these could even die, this has been a controversial issue, since this Ritual is not illegal, it has given much to talk about among NGOs. This is just one of the traditions of India, where there are rituals in which the widow is cremated next to the corpse of her husband (it should be noted that it is something illegal, although it is still practiced clandestinely).",
+		"portada": "lanzar1.jpg",
+		"relleno": "lanzar2.jpg"
+	},
+	"item3": {
+		"id": 3,
+		"encabesado": "The Masai tribe – Kenya and northern of Tanzania. ",
+		"articulo": "The Masai tribe is an African ethnic group found in Kenya and the northern part of Tanzania. Saliva is something that all human beings generate in our mouth, it contains bacteria, among other things, so it is not common to spit at other people or spit on our hands before greeting people. There is a strange and I would say unhygienic tradition there, in which the palms of the hands are spit out before shaking them, fundamentally this is done with the elderly, it is also common to see how they spit on each other, because this for them is the way to give a blessing, in order to develop good luck and give a long life to newborn children, their parents, friends and relatives spit on them. For its part, love within this tribe is lived in a peculiar way, but a bit retrograde, old-fashioned and macho, first of all all marriages that are consummated are child marriages, since girls marry between the ages of 13 and 16 years old, the father is the one who decides with whom his daughter is going to marry, without even consulting him if he wants to marry; After his father decides who he is going to marry, a week before the wedding, the two families meet to decide how many cows the groom's family will exchange for the bride; On the wedding day the bride is required to dress in a bold and colorful necklace with beads and shells; Also on the wedding day, in order to ward off bad luck, the women of the groom's family insult the bride when she goes to her new home.",
+		"portada": "masai1.jpg",
+		"relleno": "masai2.jpg"
+	},
+	"item4": {
+		"id": 4,
+		"encabesado": "The toast with beer – Hungary ",
+		"articulo": "The People's Republic of Hungary is a sovereign nation, which is one of the twenty-seven super-nations that make up the European Union. It is quite common that within a party, social gathering or whatever you want to call it, people clink their glasses, glasses, etc., as a way to celebrate. Well, in Hungary the toast is frowning on glasses or glasses, but this has nothing to do with rules of etiquette or social prejudices, all this has a historical background. Most of the Hungarian citizens are quite nationalistic, because they still remember how the Austrians celebrated after annihilating the Hungarian independence revolts in the 19th century, because they celebrate it by toasting with their beer mugs, since then this action is frowned upon by people, even the tourists themselves get not very nice looks when they do this kind of thing. There are other alternatives, such as toasting with Tokaji wine, since a Russian Tsar liked and admired this wine so much that he sent an army to protect the corridor between Hungary and Saint Petersburg, so if as a tourist you toast with this wine, you will not receive nasty looks.",
+		"portada": "hungria1.jpg",
+		"relleno": "hungria2.jpg"
+	},
+	"item5": {
+		"id": 5,
+		"encabesado": "Hanging coffins – China, Indonesia and Philippines",
+		"articulo": "The People's Republic of China, the Republic of Indonesia and the Republic of the Philippines are three Asian countries. Generally when a person dies, they are buried underground, in a cemetery. Well, some people in China, Indonesia and the Philippines do not bury the deceased, what they do is that whatever the coffins in cliffs or caves, for them everything does not end there, people pass to another life, then it is believed that between more high is the corpse, faster and easier it can reach paradise, on the other hand it is believed that this also protects the coffins from some predators.",
+		"portada": "ataudes2.jpg",
+		"relleno": "ataudes1.jpg"
+	}
+}
