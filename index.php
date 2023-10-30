@@ -61,7 +61,7 @@ include "config/config.php";
 		}, 1500);
 		setTimeout(function() {
 			document.getElementById('par').innerHTML = "Listo";
-			window.location.href = 'home/';
+			window.location.href = 'public/index.php?p=home';
 		}, 2000);
 </script>
 </body>

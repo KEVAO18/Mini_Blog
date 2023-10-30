@@ -16,7 +16,7 @@ function adventure($s){
 						<img src="<?=$s?>assets/media/<?=$art['portada']?>" style='width: 100%; height: 30vh;'>
 					</div>
 					<div class="card-body text-center">
-						<a href="<?=$s?>adventure/<?=$art['id']?>" class="fs-1-5 color-3" title=""><?=$art['encabesado']?></a>
+						<a href="<?=$s?>public/index.php?p=adventure/<?=$art['id']?>" class="fs-1-5 color-3" title=""><?=$art['encabesado']?></a>
 					</div>
 				</div>
 			</div>
