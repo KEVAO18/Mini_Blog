@@ -49,5 +49,20 @@ include "config/config.php";
 		</div>
 	</div>
 </div>
+<script type="text/javascript">
+		setTimeout(function() {
+			document.getElementById('par').innerHTML = "Loaded.";
+		}, 500);
+		setTimeout(function() {
+			document.getElementById('par').innerHTML = "Loaded..";
+		}, 1000);
+		setTimeout(function() {
+			document.getElementById('par').innerHTML = "Loaded...";
+		}, 1500);
+		setTimeout(function() {
+			document.getElementById('par').innerHTML = "Listo";
+			window.location.href = 'home/';
+		}, 2000);
+</script>
 </body>
 </html>
