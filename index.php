@@ -12,10 +12,12 @@ include "config/config.php";
     <meta name="copyright" content="Kevin Orrego" />
     <meta name="robots" content="index,follow" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <script data-ad-client="ca-pub-8451882773801242" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 	<title><?=$appName?></title>
+
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 	<link rel="icon" href="assets/media/<?=$icoName?>.png">
+	
 	<style type="text/css">
 		.anim{
 			animation-name: active;
@@ -47,29 +49,5 @@ include "config/config.php";
 		</div>
 	</div>
 </div>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-152770313-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-152770313-1');
-</script>
-<script type="text/javascript">
-		setTimeout(function() {
-			document.getElementById('par').innerHTML = "Loaded.";
-		}, 500);
-		setTimeout(function() {
-			document.getElementById('par').innerHTML = "Loaded..";
-		}, 1000);
-		setTimeout(function() {
-			document.getElementById('par').innerHTML = "Loaded...";
-		}, 1500);
-		setTimeout(function() {
-			document.getElementById('par').innerHTML = "Listo";
-			window.location.href = 'home/';
-		}, 2000);
-</script>
 </body>
 </html>

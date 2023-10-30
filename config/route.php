@@ -16,10 +16,6 @@ function routes($name, $s){
 			include "../web/views/".$ruta[0].".php";
 			e404($s);
 			break;
-		case 'e403':
-			include "../web/views/".$ruta[0].".php";
-			e403($s);
-			break;
 		case 'adventure':
 			switch ($ruta[1]) {
 				case 'all':
