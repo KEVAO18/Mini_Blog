@@ -12,7 +12,7 @@ function home($appName, $autor, $s){
                 <h5>Welcome to</h5>
                 <h1><?=$appName?></h1>
                 <hr class="w-80-p mx-auto bg-3">
-                <a href="<?=$s?>adventure/all" class="btn fs-1-5 bg-5 colo-4 br-1 " title="">Start the travel</a>
+                <a href="<?=$s?>public/index.php?p=adventure/all" class="btn fs-1-5 bg-5 colo-4 br-1 " title="">Start the travel</a>
               </div>
             </div>
           </div>
