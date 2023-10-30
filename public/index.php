@@ -83,8 +83,8 @@ include "../config/config.php";
       <div class="container pt-4">
         <div class="row text-white">
           <div class="col-sm-12 col-md-8 py-2">
-              <p><?=$autor?></p>
-              <p><?=$co_autor?></p>
+              <p>Articulos por: <?=$autor?></p>
+              <p>Desarrollado por: <?=$co_autor?></p>
               <p class="sub"><?=$date ?></p>
           </div>
         </div>
@@ -104,6 +104,5 @@ include "../config/config.php";
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
     <!-- MDB core JavaScript -->
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.10.1/js/mdb.min.js"></script>
-    <!-- scripts -->
   </body>
 </html>
