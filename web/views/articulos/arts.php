@@ -12,7 +12,7 @@ function arts($s, $id){
 		if ($i == $id) {
 		$articulo = explode(".", $art['articulo']);
 ?>
-	<div class="py-5-r" style="background: url('<?=$s?>assets/media/<?=$art['portada']?>'); background-attachment: fixed; background-repeat: no-repeat; background-size: 100%; background-position: bottom;">
+	<div class="py-5-r" style="background: url('<?=$s?>assets/media/<?=$art['portada']?>'); background-attachment: fixed; background-repeat: no-repeat; background-size: cover; background-position: top;">
 		<div class="container">
 			<div class="text-center color-2 fs-3">
 				<?=$art['encabesado']?>
@@ -42,8 +42,5 @@ function arts($s, $id){
 			<?php
 		}
 	}
-?>
-
-<?php
 }
 ?>
